@@ -1,0 +1,16 @@
+rrr, a compressed representation of a binary sequence providing
+constant time rank and logarithmic time select operations in
+nH_o(B) + o(n) bits as described in
+
+Rajeev Raman, Venkatesh Raman, and Srinivasa Rao Satti. Succinct
+indexable dictionaries with applications to encoding k-ary trees,
+prefix sums and multisets. ACM Transactions on Algorithms, 3(4), 2007.
+
+Francisco Claude and Gonzalo Navarro. Practical rank/select queries
+over arbitrary sequences. In Proc. 15th International Symposium on
+String Processing and Information Retrieval (SPIRE’08), volume 5280 of
+Lecture Notes in Computer Science, pages 176–187, 2009.
+
+Gonzalo Navarro and Eliana Providel. Fast, small, simple rank/select
+on bitmaps. In Experimental Algorithms, volume 7276 of Lecture Notes
+in Computer Science, pages 295–306. 2012.
